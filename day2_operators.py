@@ -53,7 +53,8 @@ else:
 salary = 50000
 # Example 
 salary = 50000
-salary += 5000
+salary += 5000  # salary = salary + 5000
 print(salary)
 # Output
 # 55000
+
