@@ -134,7 +134,7 @@ print("Div:", a / b)
 # Mul: 75
 # Div: 3.0
 #-------------------------------------------------------------------
-# 3. Product Calculation.
+# 3. Product Calculation
 product = "Mouse"
 price = 500
 quantity = 2
