@@ -277,7 +277,7 @@ elif response_code == 500:
     print("Server Error")
 else:
     print("Unknown Response")
-# Output - Depends on user input
+# Output - Depends on user input.
 # -----------------------------------------------------------------
 
 
