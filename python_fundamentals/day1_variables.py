@@ -78,9 +78,9 @@ print(type(age))
 #<class 'int'>
 #------------------------------------------------------------------
 # Simple Arthimetic
-a = 10, 
-b = 5,
-result = a+b
+a = 10
+b = 5
+result = a + b
 print(result)
 # Output
 # 15
@@ -96,8 +96,8 @@ print("Total Salary:", total_salary)
 # Total Salary: 45000.66
 #----------------------------------------------------------------
 #Swap Variables
-a = 10,
-b = 20,
+a = 10
+b = 20
 a,b = b,a
 print("a = ", a)
 print("b = ", b)
@@ -122,7 +122,7 @@ print(Employee_name, Employee_ID, Department)
 #-----------------------------------------------------------------------
 # 2. Calculator Basics
 a = 15
-b = 5,
+b = 5
 print("Add:", a + b)
 print("Sub:", a - b)
 print("Mul:" ,a * b)
