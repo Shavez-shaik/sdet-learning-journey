@@ -411,7 +411,7 @@ for browser in browsers:
 # Executing: Login Test 
 # Passed: Search Test on Firefox
 #-----------------------------------------------------------------------------
-# Print multiplication table of 5 using for loop
+# Print multiplication table of 5 using for loop.
 for i in range(1, 11):
     print("5 x", i, "=", 5 * i) 
 # Output:
