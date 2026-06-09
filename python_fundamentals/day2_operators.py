@@ -4,7 +4,7 @@ b = 5
 print(a+b)
 # Output 
 # 15
-# Here + is the operator.
+# Here + is the operator
 #------------------------------------------------------------
 # 2. Arthimetic Operators
 """ Used for mathematical Calculations. 
